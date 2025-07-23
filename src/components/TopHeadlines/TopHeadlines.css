@@ -1,0 +1,26 @@
+.top-headlines {
+  background: #fff;
+  padding: 20px;
+  border: 1px solid #ececec;
+}
+
+.top-headlines h3 {
+  font-size: 18px;
+  border-bottom: 2px solid #0072c6;
+  padding-bottom: 6px;
+  margin-bottom: 12px;
+  color: #003057;
+}
+
+.top-headlines ul {
+  list-style: none;
+}
+.top-headlines li {
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #0072c6;
+  cursor: pointer;
+}
+.top-headlines li:hover {
+  text-decoration: underline;
+}

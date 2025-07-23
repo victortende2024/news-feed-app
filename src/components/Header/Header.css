@@ -1,0 +1,37 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 0;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #003057;
+}
+
+.nav-links a {
+  margin: 0 12px;
+  font-size: 14px;
+  color: #333;
+}
+
+.nav-links a:hover {
+  color: #0072c6;
+}
+
+.extras span {
+  margin-right: 16px;
+  font-size: 14px;
+}
+.extras a {
+  margin-left: 12px;
+  font-size: 14px;
+  color: #0072c6;
+}

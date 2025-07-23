@@ -1,0 +1,13 @@
+.ad-banner {
+  background: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 0;
+  font-size: 18px;
+}
+.ad-banner img {
+  margin-left: 16px;
+  height: 24px;
+}

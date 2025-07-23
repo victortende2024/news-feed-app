@@ -1,0 +1,26 @@
+.section-list {
+  background: #fff;
+  padding: 20px;
+  border: 1px solid #ececec;
+}
+
+.section-list h3 {
+  font-size: 18px;
+  border-bottom: 2px solid #0072c6;
+  padding-bottom: 6px;
+  margin-bottom: 12px;
+  color: #003057;
+}
+
+.section-list ul {
+  list-style: none;
+}
+.section-list li {
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #0072c6;
+  cursor: pointer;
+}
+.section-list li:hover {
+  text-decoration: underline;
+}
